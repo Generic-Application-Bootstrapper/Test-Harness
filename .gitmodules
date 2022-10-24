@@ -1,6 +1,6 @@
-[submodule "components/Gui"]
-	path = components/Gui
-	url = git@github.com:Generic-Application-Bootstrapper/Gui.git
 [submodule "components/Api"]
 	path = components/Api
 	url = https://github.com/Generic-Application-Bootstrapper/Api.git
+[submodule "components/Gui"]
+	path = components/Gui
+	url = https://github.com/Generic-Application-Bootstrapper/Gui.git
